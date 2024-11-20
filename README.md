@@ -24,8 +24,8 @@ Use matplotlib to display the original, eroded, and dilated images side-by-side 
  
 ## Program:
 ```
-Developed By: M.HARINI
-Ref No:212222240035
+Developed By: amrutha
+Ref No:212222110004
 ```
 ```
 # Import the necessary packages
